@@ -1,6 +1,11 @@
 # github-org-access-scraper
 GitHub lacks an API for listing an org's repos' access for non-team-based individuals, so, scrape it.
 
+# Prerequisites
+1. A Mac with Safari and the Script Editor
+1. [JSON Helper](https://apps.apple.com/us/app/json-helper-for-applescript/id453114608?mt=12) from the Mac App Store
+1. `jq` (`brew install jq`)
+
 # Instructions
 
 1. Clone this repo.
